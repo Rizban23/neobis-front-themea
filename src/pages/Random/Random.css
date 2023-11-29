@@ -1,4 +1,4 @@
-.random-meal {
+.random {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -6,18 +6,18 @@
     margin-bottom: 3.5rem;
   }
   
-  .random-meal__info {
+  .random__info {
     display: flex;
     flex-direction: column;
     gap: 2rem;
   }
   
-  .random-meal__constant {
+  .random__constant {
     font-size: 1.6rem;
   }
   
-  .random-meal__title,
-  .random-meal__category {
+  .random__title,
+  .random__category {
     text-decoration: none;
   }
   
@@ -25,18 +25,18 @@
     text-decoration: none;
   }
   
-  .random-meal__title {
+  .random__title {
     font-size: 2rem;
     color: #d49726;
     font-weight: 500;
   }
   
-  .random-meal__category {
+  .random__category {
     font-size: 1rem;
     color: black;
   }
   
-  .random-meal-img img {
+  .random-img img {
     width: 70%;
     height: 70%;
     border-radius: 1rem;
