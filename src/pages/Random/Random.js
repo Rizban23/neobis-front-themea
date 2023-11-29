@@ -34,4 +34,4 @@ const RandomMeal = () => {
   );
 };
 
-export default RandomMeal;
+export default Random;
