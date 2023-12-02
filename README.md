@@ -20,4 +20,4 @@ React Router
 Redux-Toolkit
 
 Created by Saitazim kyzy Rizban
-https://github.com/Rizban23
+https://github.com/Rizban23.
