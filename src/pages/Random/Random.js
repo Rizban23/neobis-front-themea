@@ -3,7 +3,7 @@ import { getRandomMeal } from "../../url/axios";
 import { Link } from "react-router-dom";
 import "./Random.css";
 
-const RandomMeal = () => {
+const Random = () => {
   const [randomFood, setRandomFood] = useState({});
 
   useEffect(() => {

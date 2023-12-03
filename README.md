@@ -17,7 +17,7 @@ CSS
 JavaScript
 React
 React Router
-Redux-Toolkit
+Redux
 
 Created by Saitazim kyzy Rizban
 https://github.com/Rizban23.
